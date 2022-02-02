@@ -109,3 +109,6 @@ package-lock.json
 
 # carpeta
 FT-M2/
+
+# Local Netlify folder
+.netlify
